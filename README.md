@@ -11,11 +11,6 @@
 
 [![Video Label](http://img.youtube.com/vi/KTIGlyd_Uak/0.jpg)](https://youtu.be/KTIGlyd_Uak)
 
-### Mine Sweeper 플레이 영상 (Unity)
-
-[![Video Label](http://img.youtube.com/vi/gFxDioucbuA/0.jpg)](https://youtu.be/gFxDioucbuA)
-
-
 ### Great KingDom 플레이 영상 (Unity)
 
 [![Video Label](http://img.youtube.com/vi/FozWlovzuY0/0.jpg)](https://youtu.be/FozWlovzuY0)
