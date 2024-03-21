@@ -7,9 +7,14 @@
 
 # 만든 게임 플레이 영상
 
-### Yacht Dice 모작 플레이 영상 (Unity)
+### Yacht Dice 플레이 영상 (Unity)
 
 [![Video Label](http://img.youtube.com/vi/KTIGlyd_Uak/0.jpg)](https://youtu.be/KTIGlyd_Uak)
+
+### Mine Sweeper 플레이 영상 (Unity)
+
+[![Video Label](http://img.youtube.com/vi/gFxDioucbuA/0.jpg)](https://youtu.be/gFxDioucbuA)
+
 
 ### Great KingDom 플레이 영상 (Unity)
 
