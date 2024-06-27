@@ -28,24 +28,3 @@
 
 ### OTHERS
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-
-# 만든 게임 플레이 영상
-
-### Yacht Dice 플레이 영상 (Unity)
-
-[![Video Label](http://img.youtube.com/vi/KTIGlyd_Uak/0.jpg)](https://youtu.be/KTIGlyd_Uak)
-
-### Great KingDom 플레이 영상 (Unity)
-
-[![Video Label](http://img.youtube.com/vi/FozWlovzuY0/0.jpg)](https://youtu.be/FozWlovzuY0)
-
-### Dino Run 플레이 영상 (Unity)
-
-[![Video Label](http://img.youtube.com/vi/X3L6orXCNUc/0.jpg)](https://youtu.be/X3L6orXCNUc)
-
-# 만든 게임 플레이 이미지
-
-### Mine Sweeper 지뢰찾기 게임 (Unity)
-
-![image](https://github.com/GameDev-HanS/GameDev-HanS/assets/163544913/ab07ab8a-39fa-419c-b652-77bfc3db4753)
