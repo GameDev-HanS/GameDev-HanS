@@ -1,5 +1,4 @@
 # Kim Han Seung
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGameDev-HanS%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)             
 
 ### Soongsil University CSE (Computer Science Engineering) (2019.03 ~ 2026.02)
 ### Jusin 149th (2024.06 ~ 2025.06)
