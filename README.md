@@ -3,7 +3,11 @@
 ### Soongsil University CSE (Computer Science Engineering) (2019.03 ~ 2026.02)
 ### Jusin 149th (2024.06 ~ 2025.06)
 ### 정보처리기사 (2024.06)
+
+### Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanking302)](https://solved.ac/hanking302/)
+[BOJ] 500 문제
+[PROGRAMMERS] 200 문제
 
 # Tech Stacks 
 
