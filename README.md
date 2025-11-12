@@ -1,8 +1,11 @@
 # Kim Han Seung
 
 (2025.11 - ) Vic Game Studios Game Client Programmer
+
 (2019.03 - 2026.02) Soongsil University CSE (Computer Science Engineering)  
+
 (2024.06 - 2025.08) Jusin 149th                                             
+
 (2024.06)           정보처리기사                                           
 
 ### Problem Solving
