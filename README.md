@@ -10,11 +10,14 @@
 
 ### Currently Studying
 Unreal Engine Common UI Widget 
+
 Unreal Engine GAS
 
 ### Want To Study
 SQLD 
+
 IOCP Server
+
 Unreal Engine ( Framework / Network )
 
 ### Problem Solving
