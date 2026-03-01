@@ -46,6 +46,3 @@ Unreal Engine ( Framework / Network )
 
 ### OTHERS
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### Current Studying
-Unreal Engine Game Ability System(GAS)
