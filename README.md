@@ -6,7 +6,16 @@
 
 (2024.06 - 2025.08) Jusin 149th                                             
 
-(2024.06)           정보처리기사                                           
+(2024.06)           정보처리기사  
+
+### Currently Studying
+Unreal Engine Common UI Widget 
+Unreal Engine GAS
+
+### Want To Study
+SQLD 
+IOCP Server
+Unreal Engine ( Framework / Network )
 
 ### Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanking302)](https://solved.ac/hanking302/)
